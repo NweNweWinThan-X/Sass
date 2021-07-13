@@ -1,0 +1,21 @@
+h3 {
+  color: red;
+}
+
+.card {
+  width: 500px;
+  height: 500px;
+  background-color: wheat !important;
+}
+.card .card-header {
+  height: 100px;
+  background-color: aquamarine;
+}
+.card .card-body {
+  height: 300px;
+  background-color: blue;
+}
+.card .card-footer {
+  height: 100px;
+  background-color: blueviolet;
+}/*# sourceMappingURL=style.css.map */
